@@ -1,1 +1,1 @@
-![](./content.svg)
+![](https://raw.githubusercontent.com/infi/infi/master/content.svg)
