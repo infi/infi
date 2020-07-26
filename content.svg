@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="content.svg" inkscape:version="1.0 (4035a4fb49, 2020-05-01)" id="svg8" version="1.1" viewBox="0 0 213.57193 185.7764" height="185.7764mm" width="213.57193mm">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg8" version="1.1" viewBox="0 0 213.57193 185.7764" height="185.7764mm" width="213.57193mm">
    <defs id="defs2">
-      <linearGradient id="linearGradient875" inkscape:collect="always">
+      <linearGradient id="linearGradient875">
          <stop id="stop871" offset="0" style="stop-color:#00a9ff;stop-opacity:1" />
          <stop id="stop873" offset="1" style="stop-color:#5e00ff;stop-opacity:1" />
       </linearGradient>
-      <linearGradient gradientUnits="userSpaceOnUse" y2="121.19025" x2="155.16682" y1="73.468063" x1="24.524519" id="linearGradient877" xlink:href="#linearGradient875" inkscape:collect="always" />
+      <linearGradient gradientUnits="userSpaceOnUse" y2="121.19025" x2="155.16682" y1="73.468063" x1="24.524519" id="linearGradient877" xlink:href="#linearGradient875" />
    </defs>
-   <sodipodi:namedview inkscape:window-maximized="1" inkscape:window-y="27" inkscape:window-x="0" inkscape:window-height="1022" inkscape:window-width="1920" fit-margin-bottom="0" fit-margin-right="0" fit-margin-left="0" fit-margin-top="0" showgrid="false" inkscape:document-rotation="0" inkscape:current-layer="layer1" inkscape:document-units="mm" inkscape:cy="341.72143" inkscape:cx="386.42359" inkscape:zoom="0.98994949" inkscape:pageshadow="2" inkscape:pageopacity="0.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" />
    <metadata id="metadata5">
       <rdf:RDF>
          <cc:Work rdf:about="">
@@ -17,10 +16,10 @@
          </cc:Work>
       </rdf:RDF>
    </metadata>
-   <g transform="translate(3.3549668)" inkscape:label="Background Layer" id="layer2" inkscape:groupmode="layer">
+   <g transform="translate(3.3549668)" id="layer2">
       <rect y="31.389357" x="-3.0622053" height="154.09428" width="212.9864" id="rect898" style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.585523;stroke-linecap:square" />
    </g>
-   <g transform="translate(0.45917984,-78.477174)" id="layer1" inkscape:groupmode="layer" inkscape:label="Base Layer">
+   <g transform="translate(0.45917984,-78.477174)" id="layer1">
       <g style="font-weight:bold;font-size:23.5497px;line-height:1.25;font-family:'';-inkscape-font-specification:' Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient877);fill-opacity:1;stroke-width:0.588744" id="text835" aria-label="Hi. I'm Infi!">
          <path id="path920" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:;-inkscape-font-specification:' Bold';fill:url(#linearGradient877);fill-opacity:1;stroke-width:0.588744" d="M 13.032208,85.471435 H 6.9092862 V 78.924619 H 3.6594276 v 16.48479 h 3.2498586 v -6.829413 h 6.1229218 v 6.829413 h 3.226309 v -16.48479 h -3.226309 z" />
          <path id="path922" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:;-inkscape-font-specification:' Bold';fill:url(#linearGradient877);fill-opacity:1;stroke-width:0.588744" d="m 20.685837,82.221577 c 1.036187,0 1.883976,-0.84779 1.883976,-1.860427 0,-1.012637 -0.847789,-1.883976 -1.883976,-1.883976 -1.012637,0 -1.860426,0.871339 -1.860426,1.883976 0,1.012637 0.847789,1.860427 1.860426,1.860427 z m 1.530731,13.187832 v -11.77485 h -3.037911 v 11.77485 z" />
